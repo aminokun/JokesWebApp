@@ -1,0 +1,35 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+        color: #FFF;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #23272A;
+    color: #FFF;
+}
+
+.table {
+    color: #FFF;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: red !important;
+}
+
+.deez > a {
+    color: cadetblue !important;
+    text-decoration: none;
+}
